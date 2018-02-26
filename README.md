@@ -1,2 +1,2 @@
 # makeoverlay
-Make an overlap of Centaurus A
+Make an overlay iamge of Centaurus A (radio/optical)
