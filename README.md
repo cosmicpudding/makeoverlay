@@ -1,2 +1,2 @@
 # makeoverlay
-Make an overlay iamge of Centaurus A (radio/optical)
+Make an overlay image of Centaurus A (radio/optical)
